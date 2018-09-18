@@ -24,6 +24,6 @@ used for detection
 
 9.  **Pallets** The colours used for bounding boxes.
 
-
-I have used the following set of tutorials for this:
-https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
+<br>
+*I have used the following set of tutorials for this:
+https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/*
