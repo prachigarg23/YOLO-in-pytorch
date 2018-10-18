@@ -8,7 +8,7 @@ The constituents of the YOLO folder and their applications are:
 2.  **util.py** This file contains helper functions that assist darknet.py and detect.py.
 
 3.  **detect.py** This file is responsible for parsing command line arguments and calling suitable
-functions to detect dogs in the test images, draw bounding boxes if they exist and save the
+functions to detect objects in the test images, draw bounding boxes if they exist and save the
 results in det folder.
 
 4.  **cfg/yolov3.cfg** This file is the configuration file containing the network layout that is to be
